@@ -5,10 +5,6 @@ Changed in master
 2
 This project contains CRUD operations using H2 Database
 
-<<<<<<< HEAD
-
-Feature 1267
-
 Release 1267
 =======
 New branch added.
